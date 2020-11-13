@@ -56,9 +56,3 @@ app.post("/failure",function(req,res){
 app.listen(process.env.PORT || 3000,function(){
     console.log("Yeah! it's working");
 });
-
-// api Key
-// 423838340b06fcf6fedc9894fbeffd8f-us2
-
-// audience Key
-// 4b6c57615d
